@@ -1,0 +1,24 @@
+<!--- HTML Tags --->
+
+<h1></h1> - Tag to change the font size. 
+<p><p> - Tag to create a new paragraph.
+<--! Comment in HTML -->
+<main></main> - Tag to identify main section in HTML. 
+<img src="" alt=""> - Selfclosing Tag to add a picture to a website. Alt atrribute to add  title to a picture. 
+<a href="" target="_blank"></a> - Tag to add a link to a page. Target blank attribute allows to open the link in a new tab. 
+<section></section> - Tag to seperate content from each other. 
+<ul></ul> - Tag for unorderd list. Seperate element enclosed in <li></li> Tags. 
+<figure></figure> - Tag for self-contained conten and will allow you to associate an image with a caption. 
+<figcaption></figcaption> - Tag to add a caption to describe a image inside the figure tags.   
+
+<em></em> - Tag to make text cursiv. 
+<ol></ol> - Tag for orderd list. Seperate element enclosed in <li></li> Tags. 
+<strong></strong> - Tag to make text bold.
+<form action=""></form> - Tag for a web form to collect user information. Action attribute to where the data should be send. 
+<input type="" name="" placeholder="" required> - Tag that allows to collect data in several ways with the type attribute. Name attribute to give the data value when submitted. Placeholder attribute to give users a hint what to add. Required attribute to know that its a nesecery.
+<button type="submit" id="" value=""></button> - Tag that creates a button on a page. Type attribute so the page know what kind of button it is. Id attribute to give it a unique name. Value attribute to know what was selected when the form was submitted.
+<label></label> - Tag to associate a input element with its Text. The for attribute works as a id attribute.
+<fieldset></fieldset> - Tag to associate radiobuttons that belong together. 
+<legend></legend> - Tag that acts as title for the fieldset tag and its radio buttons. 
+<footer></footer> - Tag at the end of a page for a footer section. 
+<!--- --->
