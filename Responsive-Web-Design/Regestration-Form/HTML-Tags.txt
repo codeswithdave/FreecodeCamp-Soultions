@@ -1,9 +1,0 @@
-<!-- HTML Tags -->
-
-minlen - Tag that allows a inpüut type to have a reguired length
-pattern=[a-z0-5]{8,} - Tag that replaces minlen and allow input match letter from small a to small z and number 0 till 5 and minium of 8 characters. 
-min - Tag for a minum number. 
-max - Tag for a maximum number. 
-<textarea><textarea> - Tag for a user to add text. 
-selector:last-of-type - psyeudo tag that selects the last selector a of a page. 
-input[type="submit"] - selector type in CSS to select a certain type in a input tag. 
